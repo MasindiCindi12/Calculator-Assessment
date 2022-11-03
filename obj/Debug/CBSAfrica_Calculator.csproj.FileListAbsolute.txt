@@ -1,0 +1,7 @@
+C:\Users\MSekhwari\source\repos\CBSAfrica_Calculator\CBSAfrica_Calculator\bin\Debug\CBSAfrica_Calculator.exe.config
+C:\Users\MSekhwari\source\repos\CBSAfrica_Calculator\CBSAfrica_Calculator\bin\Debug\CBSAfrica_Calculator.exe
+C:\Users\MSekhwari\source\repos\CBSAfrica_Calculator\CBSAfrica_Calculator\bin\Debug\CBSAfrica_Calculator.pdb
+C:\Users\MSekhwari\source\repos\CBSAfrica_Calculator\CBSAfrica_Calculator\obj\Debug\CBSAfrica_Calculator.csprojAssemblyReference.cache
+C:\Users\MSekhwari\source\repos\CBSAfrica_Calculator\CBSAfrica_Calculator\obj\Debug\CBSAfrica_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MSekhwari\source\repos\CBSAfrica_Calculator\CBSAfrica_Calculator\obj\Debug\CBSAfrica_Calculator.exe
+C:\Users\MSekhwari\source\repos\CBSAfrica_Calculator\CBSAfrica_Calculator\obj\Debug\CBSAfrica_Calculator.pdb
